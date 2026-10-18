@@ -1,5 +1,10 @@
 # RAG-Based Document Chatbot 🤖📄
 
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-black?style=flat&logo=vercel)](https://rag-document-chatbot-peach.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-rag--document--chatbot-blue?style=flat&logo=github)](https://github.com/Krishlayy/rag-document-chatbot)
+
+> **Live Production Demo**: [https://rag-document-chatbot-peach.vercel.app](https://rag-document-chatbot-peach.vercel.app)
+
 A high-performance **Retrieval-Augmented Generation (RAG)** conversational AI platform engineered with **Python**, **LangChain**, and **ChromaDB**. Enables context-aware question answering over uploaded PDF, DOCX, and text knowledge bases with semantic vector search, strict citation grounding, and anti-hallucination prompt boundaries.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
